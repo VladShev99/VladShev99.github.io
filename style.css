@@ -11,11 +11,7 @@
 
 		li { display: table-cell; font-weight: bold; width: 1%; }
 
-		a {
-				color: #666666;
-				font-weight: 200;
-				font-size: 14px;
-				margin: 0 10px;
-			}
+a { color: #4183c4; text-decoration: none; }
+a:hover { text-decoration: underline; }
 	</head>
 </html>
