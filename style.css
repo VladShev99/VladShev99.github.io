@@ -32,6 +32,11 @@ background-color: #a58362;
 color: #fff;
 }
 
+nav ul li:hover
+{
+background-color: #a58362;
+}
+
 nav a:link
 {
 color: white;
