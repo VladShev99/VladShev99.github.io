@@ -42,7 +42,7 @@ nav a:link
 color: white;
 }
 
-body p
+body
 {
 background-color: #4bf2e4;
 font-size: 1.5em;
@@ -56,6 +56,6 @@ text-decoration: none;
 
 p.poem
 {
-font-size: 0.9em;
+font-size: 0.2em;
 color: red;
 }
