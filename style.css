@@ -45,6 +45,7 @@ color: white;
 body
 {
 background-color: #4bf2e4;
+font-size: 1.5em;
 }
 
 ol li a
@@ -55,6 +56,6 @@ text-decoration: none;
 
 p.poem
 {
-font-size: 0.6em;
+font-size: 0.9em;
 color: red;
 }
