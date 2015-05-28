@@ -44,8 +44,11 @@ color: white;
 
 body ol p
 {
-background-color: #4bf2e4;
 font-size: 1.5em;
+}
+
+body{
+background-color: #4bf2e4;
 }
 
 ol li a
