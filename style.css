@@ -10,6 +10,11 @@ font-family: arial, helvetica, sans-serif;
 position: static;
 }
 
+h1
+{
+font-family: arial, helvetica, serif;
+}
+
 nav ul li a
 {
 text-decoration: none;
@@ -45,7 +50,6 @@ color: white;
 body ol p
 {
 font-size: 1.5em;
-font-family: 'Indie Flower', cursive;
 }
 
 body{
